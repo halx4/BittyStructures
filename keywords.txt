@@ -6,28 +6,28 @@
 # Classes (KEYWORD1)
 #######################################
 
-BittyByte KEYWORD1
-BittyWord KEYWORD1
-BittyDWord KEYWORD1
+BittyByte	KEYWORD1
+BittyWord	KEYWORD1
+BittyDWord	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-setEnabled KEYWORD2
-setBit KEYWORD2
-getBit KEYWORD2
-toggleBit KEYWORD2
-setByte KEYWORD2
-getByte KEYWORD2
-setWord KEYWORD2
-getWord KEYWORD2
-setLSB KEYWORD2
-setMSB KEYWORD2
-getMSB KEYWORD2
-getLSB KEYWORD2
-setDWord KEYWORD2
-getDWord KEYWORD2
+setEnabled	KEYWORD2
+setBit	KEYWORD2
+getBit	KEYWORD2
+toggleBit	KEYWORD2
+setByte	KEYWORD2
+getByte	KEYWORD2
+setWord	KEYWORD2
+getWord	KEYWORD2
+setLSB	KEYWORD2
+setMSB	KEYWORD2
+getMSB	KEYWORD2
+getLSB	KEYWORD2
+setDWord	KEYWORD2
+getDWord	KEYWORD2
 
 #
 #######################################
